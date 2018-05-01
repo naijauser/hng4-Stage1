@@ -1,0 +1,32 @@
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-style: normal;
+    color: white;
+    overflow: auto;
+
+}
+#container{
+	background: url("background2.jpg");
+	margin: 50px auto;
+    overflow: auto;
+    background-repeat: no-repeat;
+	width: 100%;
+	min-height: 600px;
+}
+.hng4{
+    font-size: 180px;
+    padding-top: 60px;
+}
+.goals{
+    font-size: 25px;
+    padding-top: 5px;
+}
+.day{
+    font-size: 40px;
+}
+#time{
+    font-size: 40px;
+    padding: 2px;
+    padding-top: 150px;
+    padding-bottom: 4px;
+}
